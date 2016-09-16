@@ -1,0 +1,4 @@
+com\niit\collabfront\controllers\HomeController.class
+com\niit\collabfront\model\Usr.class
+com\niit\collabfront\dao\UsrDAOImpl.class
+com\niit\collabfront\dao\UsrDAO.class
